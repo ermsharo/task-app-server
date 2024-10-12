@@ -1,0 +1,12 @@
+Flask
+Gunicorn
+Werkzeug==2.2.2
+python-dotenv
+Flask-Cors
+requests
+psycopg2
+pandas
+watchdog
+urllib3==1.26.6
+tabulate
+tinydb
